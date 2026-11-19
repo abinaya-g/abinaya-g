@@ -40,11 +40,11 @@ I am an academic and researcher working in **machine learning, deep learning, EE
 
 ## 📄 Selected Publications & Research
 
-- **Topographic and Temporal Neural Manifolds for Cross-Task Mental Workload Estimation Using Hybrid Deep Models** — *Scientific Reports*.  
-  [Find this publication on Google Scholar](https://scholar.google.com/scholar?q=Topographic+and+Temporal+Neural+Manifolds+for+Cross-Task+Mental+Workload+Estimation+Using+Hybrid+Deep+Models)
+- **ACXNet hybrid deep learning model for cross task mental workload estimation using EEG neural manifolds** — *Scientific Reports*.  
+  [Find this publication on Google Scholar](https://www.nature.com/articles/s41598-025-19144-x)
 
 - **Wavelet-based mental workload classification with rapid personalization outperforms deep learning in cross-subject electroencephalography analysis** — *Biomedical Signal Processing and Control*.  
-  [Find this publication on Google Scholar](https://scholar.google.com/scholar?q=Wavelet-based+mental+workload+classification+with+rapid+personalization+outperforms+deep+learning+in+cross-subject+electroencephalography+analysis)
+  [Find this publication on Google Scholar](https://www.sciencedirect.com/science/article/pii/S1746809426013662)
 
 For the complete and updated publication list, visit my [Google Scholar profile](https://scholar.google.com/citations?user=VSQbTD4AAAAJ).
 
@@ -86,7 +86,7 @@ I enjoy developing practical learning resources and guiding students through res
 - **Google Scholar:** [View publications and citations](https://scholar.google.com/citations?user=VSQbTD4AAAAJ)
 - **Scopus Author Profile:** [Author ID: 55831034300](https://www.scopus.com/authid/detail.uri?authorId=55831034300)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/abinaya-g-a3310577/)
-- **ORCID:** Add your ORCID profile URL here.
+- **ORCID:** [0000-0002-1907-0733](https://orcid.org/my-orcid?orcid=0000-0002-1907-0733).
 
 ## 🤝 Collaboration
 
