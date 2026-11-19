@@ -1,70 +1,97 @@
 # Hi, I'm G. Abinaya 👋
 
-**Assistant Professor | Researcher | Ph.D. Scholar**  
-Department of Information Technology, Saveetha Engineering College, Chennai, India
+**Assistant Professor (OG) – Information Technology | Researcher | Ph.D. Scholar**  
+Saveetha Engineering College, Chennai, India
 
-I work at the intersection of **machine learning, deep learning, and neural signal processing**, with a research focus on EEG-based mental workload estimation, brain–computer interfaces, and adaptive multimodal learning.
+I am an academic and researcher working in **machine learning, deep learning, EEG-based cognitive workload estimation, and multimodal physiological signal processing**. My interests also include applied AI, web engineering, and mobile application development.
 
 ## 🔬 Research Interests
 
-- EEG signal processing and mental workload estimation
-- Brain–computer interfaces (BCI) and MI-EEG decoding
-- Deep learning for physiological and multimodal signals
-- Federated learning and cross-subject personalization
-- Explainable and uncertainty-aware machine learning
-- Human-centred AI and cognitive state monitoring
+- Machine learning and deep learning
+- EEG-based cognitive workload estimation
+- Multimodal physiological signal processing
+- Brain–computer interfaces and neural signal analysis
+- Federated learning and personalized AI
+- Applied AI, web engineering, and mobile app development
 
-## 🧠 Research Focus
+## 🧠 Research Profile
 
-My research explores robust and personalized learning methods for understanding human cognitive states from physiological signals. I am particularly interested in:
+- **Journal publications:** 22
+- **H-index:** 3
+- **Patents published:** 4
+- **Teaching experience:** 10 years
+- **Industrial experience:** 2.5 years
 
-- Hybrid deep learning architectures for EEG analysis
-- CNN–BiLSTM and transformer-based multimodal fusion
-- Cross-subject generalization and domain adaptation
-- Federated and meta-learning approaches for personalization
-- Reliable evaluation, explainability, and model efficiency
+*Profile metrics are based on the faculty profile document supplied for this README and may change over time.*
 
 ## 🛠️ Technologies & Tools
 
-**Languages:** Python, SQL  
-**Machine Learning / Deep Learning:** PyTorch, Scikit-learn, XGBoost  
-**Areas:** EEG Processing, Feature Engineering, Federated Learning, Explainable AI  
-**Tools:** Git, GitHub, Jupyter Notebook, CUDA
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+</p>
 
-## 📚 Selected Research
+## 📄 Selected Publications & Research
 
-- **ACXNet:** Hybrid autoencoder, CNN, and XGBoost framework for cross-task mental workload estimation using EEG.
-- **Adaptive Multimodal Learning:** Research on combining EEG and other physiological signals for context-aware cognitive workload estimation.
-- **Federated EEG Learning:** Research on privacy-aware, cross-subject motor imagery EEG decoding and personalization.
+- **Topographic and Temporal Neural Manifolds for Cross-Task Mental Workload Estimation Using Hybrid Deep Models** — *Scientific Reports*.  
+  [Find this publication on Google Scholar](https://scholar.google.com/scholar?q=Topographic+and+Temporal+Neural+Manifolds+for+Cross-Task+Mental+Workload+Estimation+Using+Hybrid+Deep+Models)
 
-For publication details and project updates, please see my GitHub repositories and academic profiles.
+- **Wavelet-based mental workload classification with rapid personalization outperforms deep learning in cross-subject electroencephalography analysis** — *Biomedical Signal Processing and Control*.  
+  [Find this publication on Google Scholar](https://scholar.google.com/scholar?q=Wavelet-based+mental+workload+classification+with+rapid+personalization+outperforms+deep+learning+in+cross-subject+electroencephalography+analysis)
 
-## 👩‍🏫 Teaching
+For the complete and updated publication list, visit my [Google Scholar profile](https://scholar.google.com/citations?user=VSQbTD4AAAAJ).
 
-I teach and develop learning resources in areas including:
+## 💡 Selected Research Themes
+
+- **Hybrid EEG learning:** Combining representation learning and machine learning for cross-task mental workload estimation.
+- **Adaptive multimodal learning:** Investigating physiological signal fusion for cognitive workload monitoring.
+- **Federated EEG learning:** Exploring privacy-aware and personalized approaches to cross-subject EEG decoding.
+
+## 👩‍🏫 Teaching & Academic Interests
 
 - Database Management Systems
 - SQL and PL/SQL
-- Full Stack Development
-- Software Engineering fundamentals
+- Machine Learning and Deep Learning
+- Web and Full Stack Development
 
-I am interested in creating practical, student-friendly resources that connect theoretical concepts with implementation.
+I enjoy developing practical learning resources and guiding students through research and implementation-oriented projects.
+
+## 🏅 Professional Recognition
+
+- International Journal Reviewer – Springer Nature and Elsevier
+- NPTEL Top Performing Mentor
+- IUCEE International Engineering Education Certification with Distinction (Score: 93.46)
+- Google Cloud Career Launchpad Facilitator
+
+## 📊 GitHub Statistics
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=abinaya-g&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinaya-g&layout=compact&hide_border=true" height="165" alt="Top programming languages" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abinaya-g&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+## 🌐 Academic & Professional Profiles
+
+- **Google Scholar:** [View publications and citations](https://scholar.google.com/citations?user=VSQbTD4AAAAJ)
+- **Scopus Author Profile:** [Author ID: 55831034300](https://www.scopus.com/authid/detail.uri?authorId=55831034300)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/abinaya-g-a3310577/)
+- **ORCID:** Add your ORCID profile URL here.
 
 ## 🤝 Collaboration
 
-I welcome research discussions and collaborations in:
-
-- EEG and physiological signal analysis
-- Brain–computer interfaces
-- Deep learning and federated learning
-- Multimodal AI and cognitive workload estimation
-- Explainable and trustworthy AI
-
-## 📫 Connect
-
-- **GitHub:** [@abinaya-g](https://github.com/abinaya-g)
-- **Institution:** Saveetha Engineering College, Chennai, India
+I welcome opportunities for academic and research collaboration in EEG signal processing, cognitive workload estimation, brain–computer interfaces, multimodal AI, federated learning, and explainable machine learning.
 
 ---
 
-*Exploring intelligent systems for understanding human cognition through data-driven learning.*
+*Researching intelligent, adaptive, and data-driven approaches to understanding human cognition.*
