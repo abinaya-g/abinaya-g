@@ -14,6 +14,17 @@ I am an academic and researcher working in **machine learning, deep learning, EE
 - Federated learning and personalized AI
 - Applied AI, web engineering, and mobile app development
 
+## 📌 Featured Code
+
+| Repository | What it is |
+|------------|------------|
+| [ACXNet-PlusPlus](https://github.com/abinaya-g/ACXNet-PlusPlus) | Attention-augmented hybrid deep learning for cross-subject EEG mental workload estimation on the STEW dataset |
+| [ADHD-EEG-Benchmark](https://github.com/abinaya-g/ADHD-EEG-Benchmark) | Leakage-corrected, subject-independent EEG benchmark framework for ADHD classification |
+| [dr-vit-adaptive-gated-fusion](https://github.com/abinaya-g/dr-vit-adaptive-gated-fusion) | Adaptive CNN–Vision Transformer fusion for diabetic retinopathy grading (APTOS 2019) |
+| [windramp-uq](https://github.com/abinaya-g/windramp-uq) | Multi-horizon wind-power forecasting and a conformal coverage audit of ramp events on two UK wind farms |
+| [irrigation-rule-recovery-pareto](https://github.com/abinaya-g/irrigation-rule-recovery-pareto) | Irrigation-need classification, label-rule recovery and a water–yield-risk Pareto analysis |
+| [19CS404-DBMS-Lab-Manual](https://github.com/abinaya-g/19CS404-DBMS-Lab-Manual) | Open DBMS lab manual used by students |
+
 ## 🧠 Research Profile
 
 - **Journal publications:** 23
@@ -21,8 +32,6 @@ I am an academic and researcher working in **machine learning, deep learning, EE
 - **Patents published:** 4
 - **Teaching experience:** 10 years
 - **Industrial experience:** 2.5 years
-
-*Profile metrics are based on the faculty profile document supplied for this README and may change over time.*
 
 ## 🛠️ Technologies & Tools
 
@@ -41,10 +50,10 @@ I am an academic and researcher working in **machine learning, deep learning, EE
 ## 📄 Selected Publications & Research
 
 - **ACXNet hybrid deep learning model for cross task mental workload estimation using EEG neural manifolds** — *Scientific Reports*.  
-  [Find this publication on Google Scholar](https://www.nature.com/articles/s41598-025-19144-x)
+  [Read the paper](https://www.nature.com/articles/s41598-025-19144-x)
 
 - **Wavelet-based mental workload classification with rapid personalization outperforms deep learning in cross-subject electroencephalography analysis** — *Biomedical Signal Processing and Control*.  
-  [Find this publication on Google Scholar](https://www.sciencedirect.com/science/article/pii/S1746809426013662)
+  [Read the paper](https://www.sciencedirect.com/science/article/pii/S1746809426013662)
 
 For the complete and updated publication list, visit my [Google Scholar profile](https://scholar.google.com/citations?user=VSQbTD4AAAAJ).
 
@@ -86,7 +95,7 @@ I enjoy developing practical learning resources and guiding students through res
 - **Google Scholar:** [View publications and citations](https://scholar.google.com/citations?user=VSQbTD4AAAAJ)
 - **Scopus Author Profile:** [Author ID: 55831034300](https://www.scopus.com/authid/detail.uri?authorId=55831034300)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/abinaya-g-a3310577/)
-- **ORCID:** [0000-0002-1907-0733](https://orcid.org/my-orcid?orcid=0000-0002-1907-0733).
+- **ORCID:** [0000-0002-1907-0733](https://orcid.org/0000-0002-1907-0733)
 
 ## 🤝 Collaboration
 
