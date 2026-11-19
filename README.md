@@ -16,7 +16,7 @@ I am an academic and researcher working in **machine learning, deep learning, EE
 
 ## 🧠 Research Profile
 
-- **Journal publications:** 22
+- **Journal publications:** 23
 - **H-index:** 3
 - **Patents published:** 4
 - **Teaching experience:** 10 years
